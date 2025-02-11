@@ -11,6 +11,8 @@ measurements10M.txt
 measurements100M.txt
 measurements.txt
 
+data/measurements.txt
+
 ### Python ###
 # Byte-compiled / optimized / DLL files
 __pycache__/
